@@ -1,4 +1,3 @@
-# Whispers-of-Ghibli-s-Enchanted-Tale
 Ghibli Characters: A Magical Data Exploration with SQL
 ✨ Overview
 Studio Ghibli’s animated films have left an indelible mark on our hearts with their magical settings, rich storytelling, and unforgettable characters. Inspired by the studio’s fantasy worlds, this project dives into the fascinating universe of Ghibli through data. Using SQL as the primary tool, we explore the characteristics and quirks of various Ghibli characters in a data-driven journey.
